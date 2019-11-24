@@ -78,6 +78,15 @@ bot.on("message", function(message){
     bot.on("message", function(mesasge){
         if(message.content == ".spam"){
             message.channel.send("**Hacked By V7**")
+		message.channel.send("**Hacked By V7**")
+		message.channel.send("**Hacked By V7**")
+		message.channel.send("**Hacked By V7**")
+		message.channel.send("**Hacked By V7**")
+		message.channel.send("**Hacked By V7**")
+		message.channel.send("**Hacked By V7**")
+		message.channel.send("**Hacked By V7**")
+		message.channel.send("**Hacked By V7**")
+		
         }
     })
 })
